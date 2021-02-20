@@ -32,7 +32,7 @@ I'm Jama! I'm a **Web Software Developer**:iphone:, looking to solve **real-worl
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JamaBushra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jama-bushra/)
-[![Twitter](https://img.shields.io/badge/-@jamahbushra?style=flat&logo=Medium&logoColor=white)](https://twitter.com/jamahbushra)
+[![Twitter](https://img.shields.io/badge/-@jamahbushra?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jamahbushra)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=jamabushra&style=flat)
