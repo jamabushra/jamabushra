@@ -1,16 +1,19 @@
-### Hello Earth 👋 Full Stack Web Developer 
+𝗛𝗲𝗹𝗹𝗼！
 
+𝗜'𝗺 Jama Bushra！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
-<!--
-**jamabushra/jamabushra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Get in touch 📧
 
-I am a fullstack software developer, with a backround in sales consulting for early stage funding for startups.
+Twitter
+LinkedIn
+Website
 
-Python & Javascript with a foundation in C++ are my tools of choice!
+🧐 About
 
-- 🔭 I’m currently working on THISWA and creating marketing tools small to medium businesses can use to optimise their digital engagement and presence.
+👨‍💻 My Website: http://jamabushra.com
 
-- 🌱 I’m currently learning the MERN stack and it's deployment to create robust full scale applications
+📫 How to reach me: jamabushra1@gmail.com
 
-- ⚡ Fun fact: I was married by 22 and had my son at 23, no accident either ahah
--->
+🌱 Languages and Tools:
+
+                
