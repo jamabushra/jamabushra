@@ -6,7 +6,7 @@ Get in touch 📧
 
 [Twitter](https://twitter.com/jamahbushra)
 [LinkedIn](https://www.linkedin.com/in/jama-bushra/)
-[Website](http://jamabushra.com/
+[Website](http://jamabushra.com/)
 
 ##🧐 About
 
