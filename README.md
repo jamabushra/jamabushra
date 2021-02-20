@@ -31,15 +31,14 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 📫 How to reach me: jamabushra1@gmail.com
 
-### 💼  Things that I'm currently working on: 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="72">  Currently working on: 
 * Running a marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
 * Mastering the Web:computer: M E R N Stack.  
 * Learning how to methodically & creatively drawing:art: work my way out of a problem set.
 * Doing some Flutter:calling: as it looks promising for the future.
 * 🔜
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> 
+ ### 🛠️ Tool Belt:
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
