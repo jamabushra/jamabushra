@@ -16,14 +16,14 @@ I'm Jama! I'm a **Full-Stack Software Developer**:iphone:, looking to solve **re
 <!-- Meme Image -->
 <img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="300" />
 
-<!-- GitHub README Stats -->
+<!-- GitHub README Stats 
   <a href="https://github.com/Jamabushra?tab=repositories">
     <img width="500" height="auto" align="right" alt="Jama's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jamabushra&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Jama's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamabushra&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. 
+  </a> -->
 
 [Twitter](https://twitter.com/jamahbushra) <br>
 [LinkedIn](https://www.linkedin.com/in/jama-bushra/) <br>
