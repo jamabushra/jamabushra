@@ -13,14 +13,23 @@ I'm Jama! I'm a **Web Software Developer**:iphone:, looking to solve **real-worl
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=jamabushra&style=flat)
 
+<!-- Meme Image -->
+<img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="300" />
+
+<!-- GitHub README Stats -->
+  <a href="https://github.com/Jamabushra?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Jama's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=jamabushra&show_icons=true&theme=algolia&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Jama's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamabushra&layout=compact" />
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+  </a>
+
 [Twitter](https://twitter.com/jamahbushra) <br>
 [LinkedIn](https://www.linkedin.com/in/jama-bushra/) <br>
 [Website](http://jamabushra.com/)
 
 📫 How to reach me: jamabushra1@gmail.com
-
-<!-- Working GIF -->
-<img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="300" />
 
 ### 💼  Things that I'm currently working on: 
 * Running a marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
@@ -30,14 +39,7 @@ I'm Jama! I'm a **Web Software Developer**:iphone:, looking to solve **real-worl
 * 🔜
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/Jamabushra?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Jama's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=jamabushra&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Jama's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamabushra&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
+<p> 
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
