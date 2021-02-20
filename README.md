@@ -1,27 +1,3 @@
-𝗛𝗲𝗹𝗹𝗼！
-
-I'm Jama Bushra a budding Web Sotware Developer 👨‍💻 who is passionate about creating and 
-
-Get in touch 📧
-
-[Twitter](https://twitter.com/jamahbushra)
-[LinkedIn](https://www.linkedin.com/in/jama-bushra/)
-[Website](http://jamabushra.com/)
-
-##🧐 About
-
-💻 My Website: http://jamabushra.com
-
-📫 How to reach me: jamabushra1@gmail.com
-
-🌱 Languages and Tools:
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png                
-
-
-
-
-
----------------------
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 
@@ -37,8 +13,14 @@ I'm Jama! I'm a **Web Software Developer**:iphone:, looking to solve **real-worl
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=jamabushra&style=flat)
 
+[Twitter](https://twitter.com/jamahbushra) <br>
+[LinkedIn](https://www.linkedin.com/in/jama-bushra/) <br>
+[Website](http://jamabushra.com/)
+
+📫 How to reach me: jamabushra1@gmail.com
+
 <!-- Working GIF -->
-<img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="250" />
+<img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="350" />
 
 ### 💼  Things that I'm currently working on: 
 * Running a marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
@@ -66,28 +48,15 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
-<br>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
-<code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
-<br>
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
 <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
-
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks For The Visit!:innocent:</h4>
 
 <!-- Credit -->
 ### Credit to 
