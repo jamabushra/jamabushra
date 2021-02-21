@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Jama! I'm a **Full-Stack Software Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and **building communities**. Gimme Starzzz :star2: 
+I'm Jama! I'm a budding**Full-Stack Web Developer/Engineer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and **building communities**. Gimme Starzzz :star2: 
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -34,7 +34,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="72">  Currently working on: 
 * Running a marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
 * Mastering the Web:computer: M E R N Stack.  
-* Learning how to methodically & creatively drawing:art: work my way out of a problem set.
+  - Have build and deployed vaious projects using Node.js, Express, React, Redux & MongoDB. Experience binding UI elements to JavaScript object models.
+Creating RESTful services with Node.js. Also have experience using asynchronous RESTful services with JSON.
 * Doing some Flutter:calling: as it looks promising for the future.
 * 🔜
 
