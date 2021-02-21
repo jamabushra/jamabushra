@@ -34,8 +34,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="72">  Currently working on: 
 * Running a marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
 * Mastering the Web:computer: M E R N Stack.  
-  - Have build and deployed vaious projects using Node.js, Express, React, Redux & MongoDB. Experience binding UI elements to JavaScript object models.
-Creating RESTful services with Node.js. Also have experience using asynchronous RESTful services with JSON.
+  - Have build and deployed vaious projects using Node.js, Express, React, Redux & MongoDB. I have experience binding UI elements to JavaScript object models,
+creating RESTful services with Node.js, and also using asynchronous RESTful services with JSON.
 * Doing some Flutter:calling: as it looks promising for the future.
 * 🔜
 
