@@ -4,7 +4,7 @@
 <!--Introduction -->
 I'm Jama! I'm a budding **Full-Stack Web Developer/Engineer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and **building communities**. Gimme Starzzz :star2: 
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect, just hit me up on one of my socials!</b> :blush:</em>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JamaBushra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jama-bushra/)
