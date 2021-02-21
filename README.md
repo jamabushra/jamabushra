@@ -6,15 +6,15 @@ I'm Jama! I'm a budding **Full-Stack Web Developer/Engineer**:iphone:, looking t
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect, just hit me up on one of my socials!</b> :blush:</em>
 
+<!-- Meme Image -->
+<img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="300" />
+
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JamaBushra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jama-bushra/)
 [![Twitter](https://img.shields.io/badge/-@jamahbushra?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jamahbushra)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=jamabushra&style=flat)
-
-<!-- Meme Image -->
-<img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="300" />
 
 <!-- GitHub README Stats 
   <a href="https://github.com/Jamabushra?tab=repositories">
