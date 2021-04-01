@@ -23,7 +23,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
   </a> -->
 
 <!-- Meme Image -->
-<img src="https://scontent.fmel14-1.fna.fbcdn.net/v/t1.0-9/108364256_106541621134970_9138664363854565217_n.jpg?_nc_cat=104&ccb=3&_nc_sid=730e14&_nc_ohc=ZQNnaIsG_E4AX8ciCR7&_nc_ht=scontent.fmel14-1.fna&oh=214ce2814e3fcf72f457f29b48a44418&oe=6054F6F9" alt="dev_object" align="right" width="500" height="300" />
+<img src="https://www.meme-arsenal.com/memes/1f4352b539ca68a3cab8cfcbc52a344e.jpg" alt="dev_object" align="right" width="500" height="300" />
 
 <!-- Socials & Website -->
 [Twitter](https://twitter.com/jamahbushra) <br>
