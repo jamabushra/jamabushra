@@ -22,9 +22,9 @@ I'm Jama! Dabble in **Dev/Tech Work**:iphone:, looking to solve **real-world pro
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. 
   </a> -->
 
-<!-- Meme Image -->
+<!-- Meme Image
 <img src="https://www.meme-arsenal.com/memes/1f4352b539ca68a3cab8cfcbc52a344e.jpg" alt="dev_object" align="right" width="500" height="300" />
-
+-->
 <!-- Socials & Website -->
 [Twitter](https://twitter.com/jamahbushra) <br>
 [LinkedIn](https://www.linkedin.com/in/jama-bushra/) <br>
