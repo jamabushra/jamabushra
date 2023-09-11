@@ -8,7 +8,7 @@ I'm Jama! Dabble in **Dev/Tech Work**:iphone:, looking to solve **real-world pro
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JamaBushra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jama-bushra/)
-[![Twitter](https://img.shields.io/badge/-@jamahbushra?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jamabshra)
+[![Twitter](https://img.shields.io/badge/-@jamabshra?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jamabshra)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=jamabushra&style=flat)
@@ -26,7 +26,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <img src="https://www.meme-arsenal.com/memes/1f4352b539ca68a3cab8cfcbc52a344e.jpg" alt="dev_object" align="right" width="500" height="300" />
 -->
 <!-- Socials & Website -->
-[Twitter](https://twitter.com/jamahbushra) <br>
+[Twitter](https://twitter.com/jamabshra) <br>
 [LinkedIn](https://www.linkedin.com/in/jama-bushra/) <br>
 [Website](http://jamabushra.com/)
 
