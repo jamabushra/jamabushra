@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hey World! :wave::smiley: [My Site](https://jamabushra.com)
+# Hey World! [My Site](https://jamabushra.com)
 
 <!--Introduction -->
 I'm Jama! Dabble in **Dev/Tech Work**:iphone:, looking to solve **real-world problems**:earth_asia:. Passionate about making **open-source** more accessible, creating software:computer: and **building communities**. Gimme Starzzz :star2: 
@@ -35,7 +35,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ###  Have worked on: 
 * App founded and failed /19 MyselfActually in digital fashion recognition from images
 * /20 Running marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
-* /22 Launched Shrunked.com to build the future of edtech and online content creation that are net positive for the world
+* /22 Launched Shrunked.com to build the future of human centric hiring at scale to act as a net positive for the world of talent
 * Mastering the Web:computer: M E R N Stack.  
   - Have build and deployed various projects using Node.js, Express, React, Redux & MongoDB. I have experience binding UI elements to JavaScript object models,
 creating RESTful services with Node.js, and also using asynchronous RESTful services with JSON.
