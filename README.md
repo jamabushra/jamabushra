@@ -30,7 +30,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 [LinkedIn](https://www.linkedin.com/in/jama-bushra/) <br>
 [Website](http://jamabushra.com/)
 
-📫 How to reach me: jamabushra1@gmail.com
+📫 How to reach me: heythiswa@gmail.com
 
 ###  Have worked on: 
 * App founded and failed /19 MyselfActually in digital fashion recognition from images
