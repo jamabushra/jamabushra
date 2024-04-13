@@ -35,7 +35,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ###  Have worked on: 
 * App founded and failed /19 MyselfActually in digital fashion recognition from images
 * /20 Running marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
-* /22 Launched Shrunked.com to build the future of human centric hiring at scale to act as a net positive for the world of talent
+* /23 Launched Shrunked.com to build the future of human centric hiring at scale to act as a net positive for the world of talent
 * Mastering the Web:computer: M E R N Stack.  
   - Have build and deployed various projects using Node.js, Express, React, Redux & MongoDB. I have experience binding UI elements to JavaScript object models,
 creating RESTful services with Node.js, and also using asynchronous RESTful services with JSON.
