@@ -2,13 +2,13 @@
 # Hey World! [My Site](https://jamabushra.com)
 
 <!--Introduction -->
-I'm Jama! Dabble in **Dev/Tech Work**:iphone:, looking to solve **real-world problems**:earth_asia:. Passionate about making **open-source** more accessible, creating software:computer: and **building communities**. Gimme Starzzz :star2: 
+I'm Jama! Dabble in **Dev/Tech Work**:iphone:, looking to solve **real-world problems**:earth_asia:. Passionate about making **open-source** more accessible, creating software:computer: and **building communities**. I have also spent alot of time in **Sales**, and done some **Real Estate**. Gimme Starzzz :star2: 
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect, just hit me up on one of my socials!</b> :blush:</em>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JamaBushra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jama-bushra/)
-[![Twitter](https://img.shields.io/badge/-@jamabshra?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jamabshra)
+[![Twitter](https://img.shields.io/badge/-@jamabshra?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/focusjama)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=jamabushra&style=flat)
@@ -26,23 +26,17 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <img src="https://www.meme-arsenal.com/memes/1f4352b539ca68a3cab8cfcbc52a344e.jpg" alt="dev_object" align="right" width="500" height="300" />
 -->
 <!-- Socials & Website -->
-[Twitter](https://twitter.com/jamabshra) <br>
+[Twitter](https://twitter.com/focusjama) <br>
 [LinkedIn](https://www.linkedin.com/in/jama-bushra/) <br>
-[Website](http://jamabushra.com/)
 
 📫 How to reach me: heythiswa@gmail.com
 
 ###  Have worked on: 
-* App founded and failed /19 MyselfActually in digital fashion recognition from images
-* /20 Running marketing agency providing:earth_asia: Digital Engagement Consulting to small to medium businesses. 
-* /23 Launched Shrunked.com to build the future of human centric hiring at scale to act as a net positive for the world of talent
-* Mastering the Web:computer: M E R N Stack.  
-  - Have build and deployed various projects using Node.js, Express, React, Redux & MongoDB. I have experience binding UI elements to JavaScript object models,
-creating RESTful services with Node.js, and also using asynchronous RESTful services with JSON.
-* 🔜
+multiple ideas but never shipped anything... yes im that guy. all that will change one day soon.
 
  ### 🛠️ Tool Belt:
  <!-- icons -->
+I know how to use some variation of these tools to hack together stuff if i really wanted to
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
