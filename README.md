@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hey World! [My Site](https://jamabushra.com)
+# Hey World! 
 
 <!--Introduction -->
 I'm Jama! Dabble in **Dev/Tech Work**:iphone:, looking to solve **real-world problems**:earth_asia:. Passionate about making **open-source** more accessible, creating software:computer: and **building communities**. I have also spent alot of time in **Sales**, and done some **Real Estate**. Gimme Starzzz :star2: 
