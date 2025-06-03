@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Ethas - Elevate Humanity Through Self Awareness 
+# EthasEng
 
 <!--Introduction -->
 Names Jama, alters Ethas! Technically non-technical. 
