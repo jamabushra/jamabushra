@@ -4,7 +4,9 @@
 <!--Introduction -->
 Names Jama, alters Ethas! Technically non-technical. 
 
-Mentally, Physically & Spiritually Unemployable.
+Mentally, Physically & Spiritually Unemployable With An Engineers Heart and A Designers Insitincts.
+
+Seeking out my lifes work.
 
 ###  Ethos:
 Looking to solve **real-world problems**:earth_asia:. Big fan of **open-source**, creating software and tools that bring Joy :computer: and **building communities**. Great deal of experience with people and real world problems solving having done **Sales**, and **Real Estate**. I'm either watching rap battles or Andrej Karpathys latest youtube videos.
