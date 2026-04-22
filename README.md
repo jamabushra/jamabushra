@@ -9,10 +9,11 @@ Mentally, Physically & Spiritually Unemployable With An Engineers Curiosity and 
 Seeking out my lifes work. One heartlead project at a time.
 
 ###  Ethos:
-Trying **m**:. 
+It all matters and it doesnt in the end.
 
-Big fan of **open-source**, trying to hack together tools that **bring Joy** :computer:, and **building communities**. 
-Prev: **tech sales, accounts & partnerships**, still determining if I've got the heart 4 capitalism. 
+Interests include: **open-source**, trying to hack together tools that **bring Joy** :computer:, and **building communities**. 
+<br>
+Prev: **tech sales, accounts & partnerships**, still determining if I've got the heart 4 capitalism.
 Last: **business development, software development and logistics @ BlueEl**
 Now: **tinkering with apps & making music** 🎶
 
