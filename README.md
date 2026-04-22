@@ -37,7 +37,7 @@ Now: **tinkering with apps & making music** 🎶
 ###  Failed/Failing at: 
 0. Coding - SHIPPED: Blueel.ai to help logistics and transport companies auto fill data from various sources into their preferred data manegement platform.
 1. Education - SHIPPING: Shrunked ios app to help teach my autistic son to talk following frustration with outcomes of typical support
-2. Agency - SHIPPING: Thiswa.com where I help SMB's get clarity on brand pov and media/publishing strategy that convert
+2. Agency - SHIPPING: Thiswa.com where I help SMB's get clarity on brand pov and media/publishing strategies that convert
 3. Parenting - GROWING: Three awesome kids who keep me on my toes and parent me as much as I try to parent them
 
 
