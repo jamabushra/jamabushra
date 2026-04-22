@@ -14,7 +14,9 @@ It all matters and it doesnt in the end.
 Interests include: **open-source**, trying to hack together tools that **bring Joy** :computer:, and **building communities**. 
 <br>
 Prev: **tech sales, accounts & partnerships**, still determining if I've got the heart 4 capitalism.
+<br>
 Last: **business development, software development and logistics @ BlueEl**
+<br>
 Now: **tinkering with apps & making music** 🎶
 
 <br>
